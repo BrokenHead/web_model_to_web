@@ -3,8 +3,10 @@ test how to make my model from fusion 360 exist on website
 
 ## upload to https://sketchfab.com/
 ### fusion 360 can't export texture
-then I mush export .obj and make texture some where else such as blander, maya, with **sketchfab**
+then I mush export .obj and make texture some where else such as blander, maya or **sketchfab**
+
 by this youtube https://youtu.be/VWjYbb8t7Iw
+
 I showing model in this web https://brokenhead.github.io/web_model_to_web/test_sketchfab.html
 
 
